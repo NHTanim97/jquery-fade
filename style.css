@@ -1,0 +1,123 @@
+
+
+/* fade in */
+.one{
+    background: rgb(133, 126, 126);
+    margin: 20px;
+    padding: 40px;
+}
+.one_boxone{
+    height: 100px;
+    width: 100px;
+    background: red;
+    margin-top: 20px;
+    display: none;
+}
+.one_boxtwo{
+    height: 100px;
+    width: 100px;
+    background: black;
+    margin-top: 20px;
+    display: none;
+}
+.one_boxthree{
+    height: 100px;
+    width: 100px;
+    background: green;
+    margin-top: 20px;
+    display: none;
+}
+
+
+
+
+
+
+/* fade out  */
+.two{
+    background: rgb(195, 189, 231);
+    margin: 20px;
+    padding: 40px;
+}
+.two_boxone{
+    height: 100px;
+    width: 100px;
+    background: rgb(157, 255, 0);
+    margin-top: 20px;
+}
+.two_boxtwo{
+    height: 100px;
+    width: 100px;
+    background: rgb(85, 3, 3);
+    margin-top: 20px;
+}
+.two_boxthree{
+    height: 100px;
+    width: 100px;
+    background: rgb(34, 0, 128);
+    margin-top: 20px;
+}
+
+
+
+
+
+/* fade toggle*/
+.three{
+    background: rgb(191, 240, 201);
+    margin: 20px;
+    padding: 40px;
+}
+.three_boxone{
+    height: 100px;
+    width: 100px;
+    background: rgb(90, 241, 60);
+    margin-top: 20px;
+}
+.three_boxtwo{
+    height: 100px;
+    width: 100px;
+    background: rgb(223, 9, 109);
+    margin-top: 20px;
+}
+.three_boxthree{
+    height: 100px;
+    width: 100px;
+    background: rgb(58, 194, 228);
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+/* fade to*/
+.four{
+    /* background: rgb(247, 189, 223); */
+    margin: 20px;
+    padding: 40px;
+    margin-bottom: 500px;
+}
+.four_boxone{
+    height: 100px;
+    width: 100px;
+    background: red;
+    margin-top: 20px;
+    display: none;
+}
+.four_boxtwo{
+    height: 100px;
+    width: 100px;
+    background: blue;
+    margin-top: 20px;
+    display: none;
+}
+.four_boxthree{
+    height: 100px;
+    width: 100px;
+    background: green;
+    margin-top: 20px;
+    display: none;
+}
